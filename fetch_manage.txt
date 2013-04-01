@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"Flags": "https://raw.github.com/Ogilvy-Frontend/fetch/master/flag.js",
+		"Mobile": "https://raw.github.com/Ogilvy-Frontend/fetch/master/mobile.js",
+		"Retirar Acentos": "https://raw.github.com/Ogilvy-Frontend/fetch/master/retirarAcentos.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
+
