@@ -3,7 +3,6 @@ var INIT = function(){
 	init : function(){
 		INIT.events();
 	},
-
 	events : function(){
 
 	}
