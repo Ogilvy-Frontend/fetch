@@ -1,4 +1,4 @@
-var INIT = x{
+var INIT = {
 	
 	init : function(){
 		INIT.events();
